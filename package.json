@@ -1,0 +1,10 @@
+{
+  "name": "cass-csharp",
+  "version": "0.0.1",
+  "license": "Apache 2.0",
+  "scripts": {},
+  "dependencies": {
+    "cassproject": "0.5.31"
+  },
+  "devDependencies": {}
+}
